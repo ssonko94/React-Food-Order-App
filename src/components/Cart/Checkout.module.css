@@ -1,11 +1,19 @@
 .form {
   margin: 1rem 0;
-  height: 19rem;
+  height: 20vh;
   overflow: auto;
 }
 
 .control {
   margin-bottom: 0.5rem;
+}
+
+.errorInput {
+  background-color: #aa0b20;
+}
+
+.error {
+  color: red;
 }
 
 .control label {
